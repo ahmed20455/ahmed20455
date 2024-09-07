@@ -1,9 +1,8 @@
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Abdul+Faheem!;" />
 </h1>
 
-<h3 align="center">A passionate AI/ML and software developer from India</h3>
+<h3 align="center">A passionate AI/ML and Software Developer from India.</h3>
 
 <br/>
 
@@ -11,11 +10,9 @@
  
  🔭 I’m currently working on **ML Project**
 
- 🌱 I’m currently learning **NLP, LLM, and GENERARTIVE AI**
+ ⚡ I’m currently learning **NLP, LLM, and GENERARTIVE AI**
 
 💬 Ask me about **Node.js, React, Flask, or anything AI/ML-related!**
-
-⚡ Fun fact **I developed AeroGesture, an application for hands-free interaction!**
 
 </div>
  
@@ -36,21 +33,19 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,python" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,java,flask,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,python" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,java,flask,mysql,c,machine learning" /><br>
 </div>
 
 <br/>
 <hr/>
 
-![GitHub Streak Stats](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Streak&query=%24.streakCount&url=https://github-readme-streak-stats.herokuapp.com/?user=ahmed20455&theme=react)
+### Github Stats
+![](https://github-readme-stats.vercel.app/api?username=ahmed20455&show_icons=true&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmed20455&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed20455&layout=compact&theme=dark&hide_border=false)
 
-
-  <br/>
-</div>
-<br/><br/>
-
-
-<hr/>
-
-<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ahmed20455&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
+[![](https://visitcount.itsvg.in/api?id=ahmed20455&icon=0&color=0)](https://visitcount.itsvg.in)
