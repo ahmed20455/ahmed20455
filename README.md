@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **ML Project**
 
- ⚡ I’m currently learning **NLP, LLM, and GENERARTIVE AI**
+ ⚡ I’m currently learning **FULL-STACK, NLP, LLM, and GENERARTIVE AI**
 
 💬 Ask me about **Node.js, React, Flask, or anything AI/ML-related!**
 
@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/ahmed-abdul-faheem/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://faheem-a1.github.io/#/home" target="_blank">
+  <a href="https://faheem-a1.github.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
