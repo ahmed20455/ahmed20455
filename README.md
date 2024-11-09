@@ -41,8 +41,8 @@
 <hr/>
 
 ### Github Stats
-![](https://github-readme-stats.vercel.app/api?username=ahmed20455&show_icons=true&theme=dark&hide_border=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmed20455&theme=dark&hide_border=false)<br/><br/>
+![Ahmed's Github Stats](https://github-readme-stats.vercel.app/api?username=ahmed20455&show_icons=true&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmed20455&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed20455&layout=compact&theme=dark&hide_border=false)
 
 ## 🏆 GitHub Trophies
