@@ -49,3 +49,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=ahmed20455&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=ahmed20455&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2 align="center">Leetcode Info</h2>  
+<p align="center">
+  <a href="https://leetcode.com/Faheeem20/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="LeetCode logo" height="100" width="100" />
+  </a>
+ 
