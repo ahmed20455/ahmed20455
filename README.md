@@ -51,7 +51,9 @@
 [![](https://visitcount.itsvg.in/api?id=ahmed20455&icon=0&color=0)](https://visitcount.itsvg.in)
 <h2 align="center">Leetcode Info</h2>  
 <p align="center">
-  <a href="https://leetcode.com/Faheeem20/" target="_blank">
+  <a href="https://leetcode.com/Faheem20/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="LeetCode logo" height="100" width="100" />
   </a>
- 
+ <p align="center">
+  <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/Faheem20?theme=dark&font=Nunito&ext=heatmap" alt="Leetcode Stats" />  
+</p>
