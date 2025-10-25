@@ -41,7 +41,7 @@
 <hr/>
 
 ### Github Stats
-![Ahmed's Github Stats](https://github-readme-stats.vercel.app/api?username=ahmed20455&show_icons=true&theme=dark&hide_border=false)
+![Ahmed's Github Stats](https://github-readme-stats.vercel.app/api?username=ahmed20455&show_icons=true&theme=dark&hide_border=false&cache_seconds=60)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmed20455&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed20455&layout=compact&theme=dark&hide_border=false)
 
