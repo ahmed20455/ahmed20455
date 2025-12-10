@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **ML Project**
+ 🔭 I’m currently working on **Web3**
 
- ⚡ I’m currently learning **FULL-STACK, NLP, LLM, and GENERARTIVE AI**
+ ⚡ I’m currently learning **WEB3, FULL-STACK, NLP, LLM, and GENERARTIVE AI**
 
 💬 Ask me about **Node.js, React, Flask, or anything AI/ML-related!**
 
